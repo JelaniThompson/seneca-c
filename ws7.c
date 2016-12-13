@@ -136,7 +136,5 @@ void addItem(struct Item items[], int * size) {
 }
 
 void checkPrice() {
-
   printf("Not Implemented\n");
-
 }
